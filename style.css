@@ -40,9 +40,26 @@ body {
 }
 
 /********************************
-HEADING TAGS
+STYLING OF TAGS
 *******************************/
 h1 {
     margin-top: 5px;
     padding-left: 10px;
+    color:darkgreen;
 }
+
+#textboxInput {
+    padding-left: 150px;
+    padding-right: 10px;
+}
+
+#submitBtn {
+    margin-left: 20px;
+    font-size: 20px;
+    color: darkgreen;
+}
+
+ #resetButton {
+     font-size: 20px;
+     color: darkgreen;
+ }
